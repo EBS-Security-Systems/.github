@@ -13,7 +13,7 @@
 > EBS-ISE: Ambiente de Script Integrado (Em construção)<br><br>
 > EBS-CSP: Provedor de Serviços de Encriptação (Em construção)<br><br>
 > EBS-KMS: Serviço de Gerenciamento de Chaves (Quase pronto)<br><br>
-> EBS-HMS: Mensagem Oculta Segura (Em construção)<br><br>
+> EBS-HMS: Mensagem Oculta Segura (Em construção)<br>
 
 </details>
 
