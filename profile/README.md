@@ -1,7 +1,7 @@
 # Encryption's Builder Studio - Security Systems
 ### Trabalhando árduamente pela segurança cibernética
 
-#### Clique na seta para ver nossas Aplicações Oficiais
+### Aplicações Oficiais
 
 <details><summary></summary>
 
