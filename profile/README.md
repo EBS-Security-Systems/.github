@@ -17,6 +17,6 @@
 
 </details>
 
-A documentação de cada uma delas estará disponível em breve
+### [Documentações](https://github.com/EBS-Security-Systems/EBS-Docs#ebs-docs)
 
 Estamos disponível no [WhatsApp](https://wa.me/557588583604) e em outras redes de [contato](https://thiagosousa81.wordpress.com/#contato)
