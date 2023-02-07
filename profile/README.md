@@ -5,8 +5,8 @@
 
 <details><summary></summary>
 
-> <b>EBS-Systems:</b> <i>Landing-Page</i> para Tráfego [Link ➚](https://ebs-systems.epizy.com/)<br><br>
-> <b>EBS-WEB:</b> Rede de Acesso a Serviços Integrados [Link ➚](https://api-ebs-web.epizy.com/)<br><br>
+> <b>EBS-Systems:</b> _Landing-Page_ para Tráfego [Link ➚](https://ebs-systems.epizy.com/)<br><br>
+> <b>EBS-WEB:</b> _API_ de Acesso a Serviços Integrados [Link ➚](https://api-ebs-web.epizy.com/)<br><br>
 > <b>EBS-IDC:</b> Comunidade de Desenvolvimento Integrado (Em construção)<br><br>
 > <b>EBS-GUI:</b> Interface Gráfica de Usuários (Quase pronto)<br><br>
 > <b>EBS-CLI:</b> Interface de Linha de Comando (Quase pronto)<br><br>
