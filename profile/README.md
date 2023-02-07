@@ -5,15 +5,15 @@
 
 <details><summary></summary>
 
-> EBS-Systems: Ponto de Gestão de Tráfego [Link ➚](https://ebs-systems.epizy.com/)<br><br>
-> EBS-WEB: Rede de Acesso a Serviços Integrados [Link ➚](https://api-ebs-web.epizy.com/)<br><br>
-> EBS-IDC: Comunidade de Desenvolvimento Integrado (Em construção)<br><br>
-> EBS-GUI: Interface Gráfica de Usuários (Quase pronto)<br><br>
-> EBS-CLI: Interface de Linha de Comando (Quase pronto)<br><br>
-> EBS-ISE: Ambiente de Script Integrado (Em construção)<br><br>
-> EBS-CSP: Provedor de Serviços de Encriptação (Em construção)<br><br>
-> EBS-KMS: Serviço de Gerenciamento de Chaves (Quase pronto)<br><br>
-> EBS-HMS: Mensagem Oculta Segura (Em construção)<br>
+> <b>EBS-Systems:</b> <i>Landing-Page</i> para Tráfego [Link ➚](https://ebs-systems.epizy.com/)<br><br>
+> <b>EBS-WEB:</b> Rede de Acesso a Serviços Integrados [Link ➚](https://api-ebs-web.epizy.com/)<br><br>
+> <b>EBS-IDC:</b> Comunidade de Desenvolvimento Integrado (Em construção)<br><br>
+> <b>EBS-GUI:</b> Interface Gráfica de Usuários (Quase pronto)<br><br>
+> <b>EBS-CLI:</b> Interface de Linha de Comando (Quase pronto)<br><br>
+> <b>EBS-ISE:</b> Ambiente de Script Integrado (Em construção)<br><br>
+> <b>EBS-CSP:</b> Provedor de Serviços de Encriptação (Em construção)<br><br>
+> <b>EBS-KMS:</b> Serviço de Gerenciamento de Chaves (Quase pronto)<br><br>
+> <b>EBS-HMS:</b> Mensagem Oculta Segura (Em construção)<br>
 
 </details>
 
