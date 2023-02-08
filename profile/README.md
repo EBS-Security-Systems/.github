@@ -24,3 +24,4 @@ Estamos disponível no [WhatsApp](https://wa.me/557588583604) e em outras redes 
 
 ### Participantes da organização
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosousa81&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiosouza0&show_icons=true&theme=transparent)
