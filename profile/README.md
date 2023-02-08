@@ -27,6 +27,10 @@ Estamos disponível no [WhatsApp](https://wa.me/557588583604) e em outras redes 
 | --- |
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosousa81&show_icons=true&theme=transparent) |
 
+| [João Victor](https://github.com/joaovictorsantanacavalcante/) |
+| --- |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovictorsantanacavalcante&show_icons=true&theme=transparent) |
+
 | [Caio Souza](https://github.com/caiosouza0) |
 | --- |
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiosouza0&show_icons=true&theme=transparent) |
