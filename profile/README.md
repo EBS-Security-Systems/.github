@@ -8,11 +8,11 @@
 > <b>EBS-Systems:</b> _Landing-Page_ para Tráfego [Link ➚](https://ebs-systems.epizy.com/)<br><br>
 > <b>EBS-WEB:</b> _API_ de Acesso a Serviços Integrados [Link ➚](https://api-ebs-web.epizy.com/)<br><br>
 > <b>EBS-IDC:</b> Comunidade de Desenvolvimento Integrado (Em construção)<br><br>
-> <b>EBS-GUI:</b> Interface Gráfica de Usuários (Quase pronto)<br><br>
+> <b>EBS-GUI:</b> Interface Gráfica de Usuários (Prévia publicada [aqui](https://thiagosousa81.wordpess.com/ebs/))<br><br>
 > <b>EBS-CLI:</b> Interface de Linha de Comando (Quase pronto)<br><br>
 > <b>EBS-ISE:</b> Ambiente de Script Integrado (Em construção)<br><br>
 > <b>EBS-CSP:</b> Provedor de Serviços de Encriptação (Em construção)<br><br>
-> <b>EBS-KMS:</b> Serviço de Gerenciamento de Chaves (Quase pronto)<br><br>
+> <b>EBS-KMS:</b> Serviço de Gerenciamento de Chaves (Em construção)<br><br>
 > <b>EBS-HMS:</b> Mensagem Oculta Segura (Em construção)<br>
 
 </details>
