@@ -18,13 +18,13 @@
 </details>
 
 
+## Documentações
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EBS-Security-Systems&repo=EBS-Docs&theme=chartreuse-dark)](https://github.com/EBS-Security-Systems/EBS-Docs#ebs-docs)
 
-### [Documentações](https://github.com/EBS-Security-Systems/EBS-Docs#ebs-docs)
-
-Estamos disponível no [WhatsApp](https://wa.me/557588583604) e em outras redes de [contato](https://thiagosousa81.wordpress.com/#contato)
+### [Fale conosco](https://thiagosousa81.wordpress.com/#contato)
 
 
-### Participantes da organização
+## Participantes da organização
 | [Thiago Sousa](https://github.com/thiagosousa81) |
 | --- |
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosousa81&show_icons=true&theme=transparent&locale=pt-br) |
