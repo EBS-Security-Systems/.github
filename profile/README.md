@@ -17,6 +17,8 @@
 
 </details>
 
+![GitHub langs](https://github-readme-stats.vercel.app/api/top-langs?orgname=EBS-Security-Systems&show_icons=true&locale=pt-br&theme=chartreuse-dark&layout=compact)
+
 ### [Documentações](https://github.com/EBS-Security-Systems/EBS-Docs#ebs-docs)
 
 Estamos disponível no [WhatsApp](https://wa.me/557588583604) e em outras redes de [contato](https://thiagosousa81.wordpress.com/#contato)
