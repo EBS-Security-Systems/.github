@@ -20,7 +20,7 @@
 
 
 ## Documentações
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EBS-Security-Systems&repo=EBS-Docs&theme=chartreuse-dark)](https://github.com/EBS-Security-Systems/EBS-Docs#ebs-docs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EBS-Security-Systems&repo=EBS-Docs&theme=transparent)](https://github.com/EBS-Security-Systems/EBS-Docs#ebs-docs)
 
 ### [Fale conosco](https://thiagosousa81.wordpress.com/#contato)
 
