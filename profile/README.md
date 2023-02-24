@@ -1,5 +1,8 @@
 # Encryption's Builder Studio - Security Systems
-### Trabalhando árduamente pela segurança cibernética. [Saiba mais...](https://ebs-systems.epizy.com/#mvv)
+## Trabalhando árduamente pela segurança cibernética. [Saiba mais...](https://ebs-systems.epizy.com/#mvv)
+### [Fale conosco](https://thiagosousa81.wordpress.com/#contato)
+
+### [Minimanual Compacto da Criptografia](https://github.com/ThiagoSousa81/Library/tree/main/Minimanual-Criptografia#minimanual-compacto-da-criptografia---teoria-e-pr%C3%A1tica)
 
 ## Aplicações Oficiais
 
@@ -20,10 +23,6 @@
 
 ## Documentações
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EBS-Security-Systems&repo=EBS-Docs&theme=transparent)](https://github.com/EBS-Security-Systems/EBS-Docs#ebs-docs)
-
-### [Fale conosco](https://thiagosousa81.wordpress.com/#contato)
-
-### [Minimanual Compacto da Criptografia](https://github.com/ThiagoSousa81/Library/tree/main/Minimanual-Criptografia#minimanual-compacto-da-criptografia---teoria-e-pr%C3%A1tica)
 
 ## Participantes da organização
 | [Thiago Sousa](https://github.com/thiagosousa81) |
