@@ -2,11 +2,9 @@
 ## Trabalhando árduamente pela segurança cibernética. [Saiba mais...](https://ebs-systems.epizy.com/#mvv)
 ### [Fale conosco](https://thiagosousa81.wordpress.com/#contato)
 
-### [Minimanual Compacto da Criptografia](https://github.com/ThiagoSousa81/Library/tree/main/Minimanual-Criptografia#minimanual-compacto-da-criptografia---teoria-e-pr%C3%A1tica)
+### [Minimanual Compacto da Criptografia](https://github.com/ThiagoSousa81/Library/tree/main/Minimanual-Criptografia#minimanual-compacto-da-criptografia---teoria-e-pr%C3%A1tica) 
 
-## Aplicações Oficiais
-
-<details><summary></summary>
+<details><summary><h2>Aplicações Oficiais</h2></summary>
 
 > <b>EBS-Systems:</b> _Landing-Page_ para Tráfego [Link ➚](https://ebs-systems.epizy.com/)<br><br>
 > <b>EBS-WEB:</b> _API_ de Acesso a Serviços Integrados [Link ➚](https://api-ebs-web.epizy.com/)<br><br>
@@ -20,6 +18,21 @@
 
 </details>
 
+<details><summary><h2>Linguagens mais usadas</h2></summary>
+  
+  | Rank | Linguagem |
+  | --- | --- |
+  | 1. | PHP |
+  | 2. | PowerShell |
+  | 3. | Python |
+  | 4. | C# |
+  | 5. | SQL |
+  | 6. | Java Script |
+  | 7. | HTML |
+  | 8. | CSS |
+  
+  
+  </details>
 
 ## Documentações
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EBS-Security-Systems&repo=EBS-Docs&theme=transparent&show_owner=true)](https://github.com/EBS-Security-Systems/EBS-Docs#ebs-docs)
