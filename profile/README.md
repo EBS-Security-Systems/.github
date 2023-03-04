@@ -20,12 +20,13 @@
 
 <details><summary><h2>Linguagens mais usadas</h2></summary>
   
+  ### Todas as aplicações estão guardadas em repositórios privados
   | Rank | Linguagem |
   | --- | --- |
   | 1. | PHP |
-  | 2. | PowerShell |
-  | 3. | Python |
-  | 4. | C# |
+  | 2. | Python |
+  | 3. | C# |
+  | 4. | PowerShell |
   | 5. | SQL |
   | 6. | Java Script |
   | 7. | HTML |
