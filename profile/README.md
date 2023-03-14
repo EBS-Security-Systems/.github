@@ -38,6 +38,9 @@
 ## Documentações
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EBS-Security-Systems&repo=EBS-Docs&theme=transparent&show_owner=true)](https://github.com/EBS-Security-Systems/EBS-Docs#ebs-docs)
 
+## Treinamentos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EBS-Security-Systems&repo=Training&theme=transparent&show_owner=true)](https://github.com/EBS-Security-Systems/Training)
+
 ## Participantes da organização
 | [Thiago Sousa](https://github.com/thiagosousa81) |
 | --- |
