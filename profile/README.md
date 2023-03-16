@@ -43,7 +43,7 @@
 ## Documentações
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EBS-Security-Systems&repo=EBS-Docs&theme=transparent&show_owner=true)](https://github.com/EBS-Security-Systems/EBS-Docs#ebs-docs)
 
-<details><summary><h2>Participantes da organização</h2></summary>
+<details><summary><h2>Programadores que trabalham conosco</h2></summary>
 
 | [Thiago Sousa](https://github.com/thiagosousa81) |
 | --- |
