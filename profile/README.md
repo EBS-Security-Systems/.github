@@ -13,8 +13,8 @@
 > <b>EBS-IDC:</b> Comunidade de Desenvolvimento Integrado [Link ➚](https://idc.ebs-systems.epizy.com/)<br><br>
 > <b>EBS-GUI:</b> Interface Gráfica de Usuários (Prévia publicada [aqui](https://thiagosousa81.wordpress.com/ebs/))<br><br>
 > <b>EBS-CLI:</b> Interface de Linha de Comando ([Link ➚](https://cli.ebs-systems.epizy.com/))<br><br>
-> <b>EBS-ISE:</b> Ambiente de Script Integrado (Em construção)<br><br>
 > <b>EBS-CSP:</b> Provedor de Serviços de Encriptação (Em construção)<br><br>
+> <b>EBS-ISE:</b> Ambiente de Script Integrado (Em construção)<br><br>
 > <b>EBS-KMS:</b> Serviço de Gerenciamento de Chaves (Em construção)<br><br>
 > <b>EBS-HMS:</b> Mensagem Oculta Segura (Em construção)<br>
 
