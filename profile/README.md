@@ -2,6 +2,10 @@
 
 ## Trabalhando árduamente pela segurança cibernética. [Saiba mais...](https://ebs-systems.epizy.com/#mvv)
 
+<p>
+  <a href="https://thiagosousa81.wordpress.com/#contato" target="_blank"><img src="https://img.shields.io/badge/Fale conosco-blue?style=flat" style="height: 25px"/></a> <a href="https://github.com/ThiagoSousa81/Library/tree/main/Minimanual-Criptografia#minimanual-compacto-da-criptografia---teoria-e-pr%C3%A1tica" target="_blank"><img src="https://img.shields.io/badge/Minimanual Compacto da Criptografia-gold?style=flat" style="height: 25px"/></a>
+</p>
+
 <details><summary><h2>Aplicações Oficiais</h2></summary>
 
 > <b>EBS-Systems:</b> _Landing-Page_ para Tráfego [Link ➚](https://ebs-systems.epizy.com/)<br><br>
@@ -55,6 +59,10 @@
 
 </details>
 
-### [Fale conosco](https://thiagosousa81.wordpress.com/#contato)
+<div display=inline>
+ <h3><a href="https://thiagosousa81.wordpress.com/#contato">Fale conosco</a></h3>
+ <h3><a href="https://github.com/ThiagoSousa81/Library/tree/main/Minimanual-Criptografia#minimanual-compacto-da-criptografia---teoria-e-pr%C3%A1tica">Minimanual Compacto da Criptografia</a></h3>
 
-### [Minimanual Compacto da Criptografia](https://github.com/ThiagoSousa81/Library/tree/main/Minimanual-Criptografia#minimanual-compacto-da-criptografia---teoria-e-pr%C3%A1tica) 
+  
+
+</div>
