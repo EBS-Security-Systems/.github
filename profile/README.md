@@ -1,8 +1,6 @@
-# Encryption's Builder Studio - Security Systems
-## Trabalhando árduamente pela segurança cibernética. [Saiba mais...](https://ebs-systems.epizy.com/#mvv)
-### [Fale conosco](https://thiagosousa81.wordpress.com/#contato)
+<h1 align=center>Encryption's Builder Studio - Security Systems</h1>
 
-### [Minimanual Compacto da Criptografia](https://github.com/ThiagoSousa81/Library/tree/main/Minimanual-Criptografia#minimanual-compacto-da-criptografia---teoria-e-pr%C3%A1tica) 
+## Trabalhando árduamente pela segurança cibernética. [Saiba mais...](https://ebs-systems.epizy.com/#mvv)
 
 <details><summary><h2>Aplicações Oficiais</h2></summary>
 
@@ -35,13 +33,14 @@
   
   </details>
 
-## Documentações
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EBS-Security-Systems&repo=EBS-Docs&theme=transparent&show_owner=true)](https://github.com/EBS-Security-Systems/EBS-Docs#ebs-docs)
-
 ## Treinamentos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EBS-Security-Systems&repo=Training&theme=transparent&show_owner=true)](https://github.com/EBS-Security-Systems/Training)
 
-## Participantes da organização
+## Documentações
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EBS-Security-Systems&repo=EBS-Docs&theme=transparent&show_owner=true)](https://github.com/EBS-Security-Systems/EBS-Docs#ebs-docs)
+
+<details><summary><h2>Participantes da organização</h2></summary>
+
 | [Thiago Sousa](https://github.com/thiagosousa81) |
 | --- |
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosousa81&show_icons=true&theme=transparent&locale=pt-br) |
@@ -53,3 +52,9 @@
 | [Caio Souza](https://github.com/caiosouza0) |
 | --- |
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiosouza0&show_icons=true&theme=transparent&locale=pt-br) |
+
+</details>
+
+### [Fale conosco](https://thiagosousa81.wordpress.com/#contato)
+
+### [Minimanual Compacto da Criptografia](https://github.com/ThiagoSousa81/Library/tree/main/Minimanual-Criptografia#minimanual-compacto-da-criptografia---teoria-e-pr%C3%A1tica) 
