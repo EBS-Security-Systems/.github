@@ -1,9 +1,0 @@
-- name: Generate-README.md-snake
-  # You may pin to the exact commit or the version.
-  # uses: InvalidLenni/README.md@a89878f85b1cca8131c215dbfb4ad7bcdb6b9b9f
-  uses: EBS-Security-Systems/.github/README.md@Template
-  with:
-    # <USERNAME>
-    github_user_name: EBS-Security-Systems
-    # <PATH OF THE GENERATED SVG FILE>
-    svg_out_path: EBS-Security-Systems/.github/snake.svg
