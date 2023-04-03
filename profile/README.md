@@ -3,6 +3,7 @@
 <h2 align=center> Trabalhando árduamente pela segurança cibernética. <a href="https://ebs-systems.epizy.com/#mvv">Saiba mais...</a></h2>
 
 <p align=center>
+  <a href="https://github.com/EBS-Security-Systems/Training/#readme" target="_blank"><img src="https://img.shields.io/badge/Treinamentos-purple?style=flat" style="height: 30px"/></a>
   <a href="https://thiagosousa81.wordpress.com/#contato" target="_blank"><img src="https://img.shields.io/badge/Fale conosco-blue?style=flat" style="height: 30px"/></a> <a href="https://github.com/ThiagoSousa81/Library/tree/main/Minimanual-Criptografia#minimanual-compacto-da-criptografia---teoria-e-pr%C3%A1tica" target="_blank"><img src="https://img.shields.io/badge/Minimanual Compacto da Criptografia-gold?style=flat" style="height: 30px"/></a>
 </p>
 
