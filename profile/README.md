@@ -1,8 +1,8 @@
 <h1 align=center>Encryption's Builder Studio - Security Systems</h1>
 
-## Trabalhando árduamente pela segurança cibernética. [Saiba mais...](https://ebs-systems.epizy.com/#mvv)
+<h2 align=center> Trabalhando árduamente pela segurança cibernética. <a href="https://ebs-systems.epizy.com/#mvv">Saiba mais...</a></h2>
 
-<p>
+<p align=center>
   <a href="https://thiagosousa81.wordpress.com/#contato" target="_blank"><img src="https://img.shields.io/badge/Fale conosco-blue?style=flat" style="height: 30px"/></a> <a href="https://github.com/ThiagoSousa81/Library/tree/main/Minimanual-Criptografia#minimanual-compacto-da-criptografia---teoria-e-pr%C3%A1tica" target="_blank"><img src="https://img.shields.io/badge/Minimanual Compacto da Criptografia-gold?style=flat" style="height: 30px"/></a>
 </p>
 
@@ -34,9 +34,7 @@
   | 3. | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="55" height="55"/> |
   | 4. | <img src="https://cdn.iconscout.com/icon/free/png-256/powershell-3628993-3030218.png" alt="powershell" width="55" height="55"/> | 
   | 5. | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="55" height="55"/> |
-  | 6. | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Java Script" width="55" height="55"/> |
-  | 7. | HTML |
-  | 8. | CSS |
+  | 6. | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Java Script" width="55" height="55"/> | 
   
   
   </details>
