@@ -25,16 +25,16 @@
 </details>
 
 <details><summary><h2>Linguagens mais usadas</h2></summary>
-  
+
   ### Todas as aplicações estão guardadas em repositórios privados
   | Rank | Linguagem |
   | --- | --- |
-  | 1. | PHP |
-  | 2. | Python |
-  | 3. | C# |
-  | 4. | PowerShell |
-  | 5. | SQL |
-  | 6. | Java Script |
+  | 1. | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="55" height="55"/> |
+  | 2. | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="55" height="55"/> |
+  | 3. | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="55" height="55"/> |
+  | 4. | <img src="https://cdn.iconscout.com/icon/free/png-256/powershell-3628993-3030218.png" alt="powershell" width="55" height="55"/> | 
+  | 5. | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="55" height="55"/> |
+  | 6. | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Java Script" width="55" height="55"/> |
   | 7. | HTML |
   | 8. | CSS |
   
