@@ -15,8 +15,9 @@
 
 <details><summary><h2>Aplicações Oficiais</h2></summary>
 
+> <b>EBS-AMS: </b> Sistema de Gerenciamento de Ataques  [Link ➚](https://ams.ebs-systems.epizy.com/)<br><br>
 > <b>EBS-Systems:</b> _Landing-Page_ para Tráfego [Link ➚](https://ebs-systems.epizy.com/)<br><br>
-> <b>EBS-WEB:</b> _API_ de Acesso a Serviços Integrados [Link ➚](https://api-ebs-web.epizy.com/)<br><br>
+> <b>EBS-WEB:</b> _API_ de Acesso a Serviços Integrados [Link ➚](https://web.ebs-systems.epizy.com/)<br><br>
 > <b>EBS-IDC:</b> Comunidade de Desenvolvimento Integrado [Link ➚](https://idc.ebs-systems.epizy.com/)<br><br>
 > <b>EBS-GUI:</b> Interface Gráfica de Usuários (Prévia publicada [aqui](https://thiagosousa81.wordpress.com/ebs/))<br><br>
 > <b>EBS-CLI:</b> Interface de Linha de Comando ([Link ➚](https://cli.ebs-systems.epizy.com/))<br><br>
