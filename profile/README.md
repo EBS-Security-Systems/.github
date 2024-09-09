@@ -52,9 +52,9 @@
 
 <details><summary><h2>Programadores que trabalham conosco</h2></summary>
 
-| [Thiago Sousa](https://github.com/thiagosousa81) | [João Victor](https://github.com/joaovictorsantanacavalcante/) | [Caio Souza](https://github.com/caiosouza0) |
-| --- | --- | --- |
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosousa81&show_icons=true&theme=transparent&locale=pt-br) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovictorsantanacavalcante&show_icons=true&theme=transparent&locale=pt-br) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiosouza0&show_icons=true&theme=transparent&locale=pt-br) |
+| [Thiago Sousa](https://github.com/thiagosousa81) | [João Victor](https://github.com/joaovictorsantanacavalcante/) | [Fernando Junior](https://github.com/aglomera) | [Felipe Buri](https://github.com/swichxx) |
+| --- | --- | --- | --- |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosousa81&show_icons=true&theme=transparent&locale=pt-br) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovictorsantanacavalcante&show_icons=true&theme=transparent&locale=pt-br) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aglomera&show_icons=true&theme=transparent&locale=pt-br) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swichxx&show_icons=true&theme=transparent&locale=pt-br) |
 
 </details>
 
