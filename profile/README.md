@@ -45,22 +45,22 @@
   </details>
 
 ## Treinamentos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EBS-Security-Systems&repo=Training&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/EBS-Security-Systems/Training)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EBS-Security-Systems&repo=Training&theme=shadow_green&show_owner=true&PAT_1=thiagosousa81)](https://github.com/EBS-Security-Systems/Training)
 
 ### Acompanhe mais cursos em nosso [Moodle](https://ead.ebs-systems.epizy.com/)
 
 ## Documentações
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EBS-Security-Systems&repo=EBS-Docs&theme=transparent&show_owner=true&PAT_1=thiagosousa81)](https://github.com/EBS-Security-Systems/EBS-Docs#ebs-docs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EBS-Security-Systems&repo=EBS-Docs&theme=shadow_green&show_owner=true&PAT_1=thiagosousa81)](https://github.com/EBS-Security-Systems/EBS-Docs#ebs-docs)
 
 <details><summary><h2>Programadores que trabalham conosco</h2></summary>
 
 | [Thiago Sousa](https://github.com/thiagosousa81) | [João Victor](https://github.com/joaovictorsantanacavalcante/) |
 | --- | --- |
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosousa81&show_icons=true&theme=transparent&locale=pt-br) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovictorsantanacavalcante&show_icons=true&theme=transparent&locale=pt-br) |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosousa81&show_icons=true&theme=shadow_green&locale=pt-br) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovictorsantanacavalcante&show_icons=true&theme=shadow_green&locale=pt-br) |
 
 | [Fernando Junior](https://github.com/aglomera) | [Felipe Buri](https://github.com/swichxx) |
 | --- | --- |
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aglomera&show_icons=true&theme=transparent&locale=pt-br) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swichxx&show_icons=true&theme=transparent&locale=pt-br) |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aglomera&show_icons=true&theme=shadow_green&locale=pt-br) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swichxx&show_icons=true&theme=shadow_green&locale=pt-br) |
 
 ### Veja os outros [membros da equipe](https://ebs-systems.epizy.com/) em nosso site
 
