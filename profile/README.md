@@ -15,6 +15,7 @@
 
 <details><summary><h2>Aplicações Oficiais</h2></summary>
 
+> <b>EBS-LAB: </b> Laboratório Open-Source do Estúdio Construtor de Encriptação **(novo)** [Link ➚](https://github.com/EBS-Security-Systems/EBS-LAB) <br><br>
 > <b>EBS-AMS: </b> Sistema de Gerenciamento de Ataques  [Link ➚](https://ams.ebs-systems.epizy.com/)<br><br>
 > <b>EBS-Systems:</b> _Landing-Page_ para Tráfego [Link ➚](https://ebs-systems.epizy.com/)<br><br>
 > <b>EBS-WEB:</b> _API_ de Acesso a Serviços Integrados [Link ➚](https://web.ebs-systems.epizy.com/)<br><br>
